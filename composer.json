@@ -1,5 +1,5 @@
 {
-	"name": "jkachel/laravel-admin",
+	"name": "stemithy/laravel-admin",
 	"description": "A database interface package for Laravel (Legacy of Frozennode Laravel-Administrator)",
 	"homepage": "http://administrator.frozennode.com",
 	"keywords": ["administrator", "admin", "database", "laravel-administrator", "laravel", "cms"],
@@ -19,7 +19,7 @@
 	},
 	"require": {
 		"php": ">=7.1.3",
-		"laravel/framework": "7.*",
+		"laravel/framework": "8.*",
 		"ckeditor/ckeditor": "4.*"
 	},
 	"require-dev": {
